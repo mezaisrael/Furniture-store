@@ -1,0 +1,36 @@
+
+.nav-bar-top {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: var(--side-padding); /* defined in App.css */
+}
+
+.nav-options {
+    background-color: var(--primary-color);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-options > .container {
+    margin: var(--side-padding); /* defined in App.css */
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.logo {
+    color: black !important;
+}
+
+.sub-nav-menu {
+    background-color: #9393db; /*var(primar-color not working)*/
+    position: absolute;
+}
+
+.hide {
+    display: none;
+}
+ 
