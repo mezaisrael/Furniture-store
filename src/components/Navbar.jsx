@@ -34,6 +34,9 @@ export default function NavBar() {
                     <MenuOption
                         category={'office'}
                         categoryOptions={['chair', 'desk']}/>
+                    <MenuOption
+                        category={'living room'}
+                        categoryOptions={['tv stand', 'sofa', 'coffee table']} />
                 </ul>
             </div>
         </nav>

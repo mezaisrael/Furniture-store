@@ -1,6 +1,18 @@
 .hero {
+  display: flex;
+  align-items: center;
   height: calc(100% - 169px);
   background: url("../images/livingRoom-mid.jpg") center/cover no-repeat;
   background-size: cover;
-  overflow: hidden;
 }
+
+
+.hero-overlay {
+    background-color: rgba(84, 84, 125, .5);
+    color: white;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
