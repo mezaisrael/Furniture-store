@@ -1,6 +1,8 @@
 :root {
   --side-padding: 20px;
-  --primary-color: #9393db
+  --primary-color: #9393db;
+  --secondary-color: #afcce0;
+  --secondary-color-darker: #9db9cc;
 }
 
 .app {

@@ -12,7 +12,24 @@
     color: white;
     height: 200px;
     width: 100%;
-    display: flex;
-    justify-content: center;
+    max-height: 200px;
 }
 
+.title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+#home-page-nav-left {
+    position: relative;
+    height: 25px;
+    top: 100px;
+}
+
+#home-page-nav-right {
+    position: relative;
+    height: 25px;
+    float: right;
+    top: 100px;
+}
