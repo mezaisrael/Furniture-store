@@ -1,10 +1,10 @@
-.hero {
-  display: flex;
-  align-items: center;
-  height: calc(100% - 169px);
-  background: url("../images/livingRoom-mid.jpg") center/cover no-repeat;
-  background-size: cover;
-}
+/* .hero { */
+/*   display: flex; */
+/*   align-items: center; */
+/*   height: calc(100% - 169px); */
+/*   background: url("../images/livingRoom-mid.jpg") center/cover no-repeat; */
+/*   background-size: cover; */
+/* } */
 
 
 .hero-overlay {
