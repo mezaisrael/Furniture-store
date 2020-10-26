@@ -3,4 +3,4 @@ Just a practice project to practice my css. I tried to avoid using libraies like
 
 
 ## Screen Shots
-![homepage](/screenshots/homepage.png)
+![homepage](/screenshots/home-page.png)
