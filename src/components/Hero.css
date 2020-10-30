@@ -25,6 +25,7 @@
     position: relative;
     height: 25px;
     top: 100px;
+    margin-left: 50px;
 }
 
 #home-page-nav-right {
@@ -32,4 +33,5 @@
     height: 25px;
     float: right;
     top: 100px;
+    margin-right: 50px;
 }
